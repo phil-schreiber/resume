@@ -3,7 +3,7 @@
 ## Philipp Schreiber, Cologne, Germany, Europe, Earth
 Seasoned (14 years industry, 42 years age) software developer with strong product development and lead skills. Background in ecommerce, b2b and b2c service implementation and operation. Broad stack of technology. Pragmatic approach. Thorough experience in hands-on web-development. Mostly CRUD applications of various sorts and sizes. Meddling in product management a lot, mostly advisory, sometimes annoyingly so. 
 Also thorough experience in keeping shit from fellow devs, getting them appreciation and giving them space to tackle challenges, gather new experiences, making the most of their abilities (otherwise known as management or leadership). Totally comfortable not to be the smartest or most knowledgable in any given room of devs, quite on the contrary.   
-Since 2015 my priority #1 is my daughter and I have zero tolerance for employers not respecting that family comes first.
+Since 2015 my priority #1 is my daughter.
 
 ---
 ## Professional Experience: 
