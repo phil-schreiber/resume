@@ -27,7 +27,6 @@ __Köln, Germany__
 
 Building (planning, designing software architecture, staffing, testing, implementing) customer service tech components. Ranges from customer and agent facing case management software over searchable knowledge bases, tracking solutions to customer account tools. PHP, vuejs, graphql and MySql are prevalent, but there is also MongoDB, RabbitMQ, Go, Docker, K8s, Elastic, Kafka and a lot of other stuff in the mix. Running up to 14 people cross functional team. Powering customer as well as backoffice facing services for one of Europe's largest ecommerce platforms [real](https://real.de)
 
-<div style="page-break-after: always;"></div>
 ---
 ### Senior Software Engineer
 __Saloodo!__  
@@ -74,7 +73,6 @@ __Hürth, Germany__
 
 Acquring the fundamentals of web-development in the age of IE5, mostly on LAMP stack, HTML, CSS, some JS. TYPO3 with configuration language typoscript. On the job training. A lot of learning by doing. 
 
-<div style="page-break-after: always;"></div>
 ---
 
 ### Online-editor
@@ -84,7 +82,9 @@ __Köln, Germany__
 
 Early stage fair fashion startup. I ran the blog and connected to the bloggosphere, which was still en vogue at the time. Also involved in everything operationally, meaning taking orders, packaging them, sending them out, processing returns...
 
+<div style="page-break-after: always;"></div>
 ---
+## Education:
 
 ### Governmental Teacher Trainee
 __Konrad-Adenauer-Gymnasium__  
@@ -96,7 +96,6 @@ The logical step after graduating from University with the "1. Staatsexamen für
 
 ----
 
-## Education:
 
 ### 1. Staatsexamen für die Lehrämter Sekundarstufe II und I, Germanistik, Anglistik, Erziehungswissenschaften (M.Ed.)
 __Universität zu Köln__  
