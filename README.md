@@ -19,7 +19,7 @@ __Köln, Germany__
 
 Idea, concept, strategy, realization, people... the whole deal. Still coding. Key aspect at justix is probing legal tech market with greenfield products. Strategy is to establish platform fundamentals to allow quick go to market. Weapons of choice are lightweight backends written in PHP, symfony and API-platform around which several logic heavy frontends in react.js and vuejs create various experiences like B2B2C legal document assembly tools or the swiss army knife of access to justice at [HelloLaw](https://de.hellolaw.com). 
 
-I've established the 6 people (including me) dev department plus one DevOps person, which I split up into to teams for two separate product areas. 
+I've established the 6 people (including me) dev department plus one DevOps person, which I split up into two teams for our two separate product areas. 
 
 Not only am I the responsible person for bringing envisaged services online timely, I am also much involved in conceptualizing new ideas and turning them into product objectives. On the other hand I also practice saying "No" a lot in order to keep focus as much as possible and only do things that add value.
 
