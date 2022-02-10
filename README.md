@@ -17,7 +17,11 @@ __Justix GmbH__
 __Nov. 2019–today__  
 __Köln, Germany__  
 
-Idea, concept, strategy, realization, people... the whole deal. Still coding. Key aspect at justix is probing legal tech market with greenfield products. Strategy is to establishing platform fundamentals to allow quick go to market. Weapons of choice are lightweight backends written in PHP, symfony and API-platform around which several logic heavy frontends in react.js and vuejs create various experiences like B2B2C legal document assembly tools or the swiss army knife of access to justice at [HelloLaw](https://de.hellolaw.com).
+Idea, concept, strategy, realization, people... the whole deal. Still coding. Key aspect at justix is probing legal tech market with greenfield products. Strategy is to establish platform fundamentals to allow quick go to market. Weapons of choice are lightweight backends written in PHP, symfony and API-platform around which several logic heavy frontends in react.js and vuejs create various experiences like B2B2C legal document assembly tools or the swiss army knife of access to justice at [HelloLaw](https://de.hellolaw.com). 
+
+I've established the 6 people (including me) dev department plus one DevOps person, which I split up into to teams for two separate product areas. 
+
+Not only am I the responsible person for bringing envisaged services online timely, I am also much involved in conceptualizing new ideas and turning them into product objectives. On the other hand I also practice saying "No" a lot in order to keep focus as much as possible and only do things that add value.
 
 ---
 ### Senior Software Developer/ Interim Domain Lead
@@ -25,7 +29,7 @@ __real.digital__
 __Sept. 2017–Oct. 2019 · 2 Jahre 2 Monate__  
 __Köln, Germany__  
 
-Building (planning, designing software architecture, staffing, testing, implementing) customer service tech components. Ranges from customer and agent facing case management software over searchable knowledge bases, tracking solutions to customer account tools. PHP, vuejs, graphql and MySql are prevalent, but there is also MongoDB, RabbitMQ, Go, Docker, K8s, Elastic, Kafka and a lot of other stuff in the mix. Running up to 14 people cross functional team. Powering customer as well as backoffice facing services for one of Europe's largest ecommerce platforms [real](https://real.de)
+Building (planning, designing software architecture, staffing, testing, implementing) customer service tech components. Ranging from customer and agent facing case management software over searchable knowledge bases, tracking solutions to customer account tools. PHP, vuejs, graphql and MySql are prevalent, but there is also MongoDB, RabbitMQ, Go, Docker, K8s, Elastic, Kafka and a lot of other stuff in the mix. Running up to 14 people cross functional team. Powering customer as well as backoffice facing services for one of Europe's largest ecommerce platforms [real](https://real.de)
 
 ---
 ### Senior Software Engineer
