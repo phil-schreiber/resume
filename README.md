@@ -91,7 +91,7 @@ __Konrad-Adenauer-Gymnasium__
 __Feb 2007-June 2007__  
 __Langenfeld, Germany__   
 
-Teaching English and German in the German University qualifying highschool track (Gymnasium). 
+Teaching English and German in the German university-qualifying highschool track (Gymnasium). 
 The logical step after graduating from University with the "1. Staatsexamen für die Lehrämter Sekundarstufe II und I". High school teaching just wasn't for me. So I pivoted as early as possible.
 
 ----
@@ -102,4 +102,6 @@ __Universität zu Köln__
 __2000-2006__  
 __Köln, Germany__   
 
-Full academic degree in German and English and educational sciences as minor. Governmental teaching track, which results in a state exam. So, yes, my completed formal education is in the humanities.
+Full academic degree in German and English and educational sciences as minor. Equivalent to Master of Education. Governmental teaching track, which results in a state exam. So, yes, my completed formal education is in the humanities.
+
+I did take a few CS courses at Feruniversität Hagen from 2013 to 2015 for a Master in applied cs, but did not continue after the birth of my daughter.
