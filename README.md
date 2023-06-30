@@ -18,7 +18,7 @@ __Aug. 2022 - today__
 __Köln, Germany__
 
 Evolving data analytics platform in high scale multi DC environment. Sinking big data through Go, C# and python services
-through kafka into clickhouse. Making use of protobuf and GRPC along the way... and a lot of monitoring and alerting.
+from kafka into clickhouse. Making use of protobuf and GRPC along the way... and a lot of monitoring and alerting.
 
 ---
 ### Head of Software Development
